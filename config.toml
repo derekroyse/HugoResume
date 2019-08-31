@@ -1,0 +1,43 @@
+baseURL = "localhost:1313"
+languageCode = "en-us"
+title = "Derek Royse"
+theme = "lodi"
+googleAnalytics = "UA-XXXXXXXX-Y"
+
+[params]
+    theme_color = "#574CDD"
+    description = "Portfolio of Derek Royse, Web Applications Developer"
+    description_photo = "portfolio.jpg"
+    favicon = "favicon.png"
+    logo = "logo.png"
+    email = "derekroyse@gmail.com"
+    linkedin = "https://www.linkedin.com/in/DerekRoyse"    
+    github = "DerekRoyse"
+
+[params.nav]
+    enable = true
+
+[params.hero]
+    enable = true
+    avatar = "avatar.jpg"
+    subtitle = "Hi! I'm Derek, a Web Developer and Cybersecurity Enthusiast."
+    hero_right = [
+    	"**Currently looking for a position as junior/mid-level full stack developer working with new and exciting technology.**", 
+    	"I am a developer with experience developing and maintaining large-scale web applications. I'm currently seeking a remote entry/mid level developer position. I have a Bachelor's Degree in Computer Information Systems from [Concord University](https://www.concord.edu) with a focus on object-oriented programming.",
+    	"Outside of my professional experience, I've also used .Net, Django, and Ruby on Rails to create projects in my spare time. I am capable of quickly learning new languages and technologies and pride myself in being an efficient self-directed worker. I love Python and Django, and I'm currently focused on going deeper with that framework and hosting with AWS.",
+    	"I'm also interested in cybersecurity and currently hold a CompTIA Security+ certification and I am studying for my Cybersecurity Analyst+ exam."
+    ]
+    resume = "Derek Royse - Resume - 2019.pdf"
+
+[params.process]
+    enable = true
+    title = "Skills"
+    subtitle = "What I Bring to the Table"
+
+[params.case_studies]
+    enable = true
+    title = "Portfolio"
+    subtitle = "Recent Work"
+
+[params.footer]
+    enable = true

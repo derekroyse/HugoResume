@@ -1,4 +1,4 @@
-baseURL = "https://derekroyse.github.io/HugoResume/"
+baseURL = "localhost:1313"
 languageCode = "en-us"
 title = "Derek Royse"
 theme = "lodi"

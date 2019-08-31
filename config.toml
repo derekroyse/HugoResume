@@ -3,6 +3,7 @@ languageCode = "en-us"
 title = "Derek Royse"
 theme = "lodi"
 googleAnalytics = "UA-XXXXXXXX-Y"
+publishDir = "docs"
 
 [params]
     theme_color = "#574CDD"

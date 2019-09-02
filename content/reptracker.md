@@ -1,12 +1,12 @@
 ---
 weight: 1
 title: "Representative Tracker | Derek Royse"
-description: "I created (and recreated) a web application to allow everyone easy access to information about their politicians."
+description: "I created a web application to allow everyone easy access to information about their politicians."
 nav_heading: "Representative Tracker"
 thumbnail: "reptracker.png"
 case_short_title: "Representative Tracker"
 case_title: "Representative Tracker Web Application"
-case_subtitle: "Web App Design"
+case_subtitle: "Web Application (Django/React)"
 case_description: "Misinformation is a rising threat to our political stability. I created a web application to provide everyone with the ability to easily access the truth about their federal, state, and local representatives."
 case_feature_img: "featured-cope.jpg"
 case_summary: "Misinformation is a rising threat to our political stability. I created a web application to provide everyone with the ability to easily access the truth about their federal, state, and local representatives."

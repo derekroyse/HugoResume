@@ -1,4 +1,4 @@
-baseURL = "https://derekroyse.github.io/HugoResume/"
+baseURL = "https://derekroyse.github.io/"
 languageCode = "en-us"
 title = "Derek Royse"
 theme = "lodi"
@@ -28,7 +28,7 @@ publishDir = "docs"
     	"Outside of my professional experience, I've also used .Net, Django, and Ruby on Rails to create projects in my spare time. I am capable of quickly learning new languages and technologies and pride myself in being an efficient self-directed worker. I love Python and Django, and I'm currently focused on going deeper with that framework and hosting with AWS.",
     	"I'm also interested in cybersecurity and currently hold a CompTIA Security+ certification and I am studying for my Cybersecurity Analyst+ exam."
     ]
-    resume = "Derek Royse - Resume - 2019.pdf"
+    resume = "Derek Royse - New Resume.pdf"
 
 [params.process]
     enable = true

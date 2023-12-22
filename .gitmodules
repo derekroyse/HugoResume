@@ -1,3 +1,4 @@
 [submodule "themes/lodi"]
 	path = themes/lodi
 	url = https://github.com/xaviablaza/hugo-lodi-theme.git
+	ignore = dirty

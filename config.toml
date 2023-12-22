@@ -23,7 +23,7 @@ publishDir = "docs"
     avatar = "avatar.jpg"
     subtitle = "Hi! I'm Derek, a Full Stack Web Developer and Cybersecurity Enthusiast."
     hero_right = [
-    	"**Full stack web developer with more than 3 years of experience developing and maintaining mid to large-scale web applications.**", 
+    	"**Full stack web developer with more than 5 years of experience developing and maintaining mid to large-scale web applications.**", 
     	"Oversaw dev department and worked hand-in-hand with multiple emergency management organizations during the COVID pandemic to rapidly develop and deploy new features and apps to respond to their evolving needs.",
     	"Adept at handling all stages of development and ensuring customer satisfaction and prompt results. Experienced working remotely with clients and team members.",
     	"I'm also passionate about cybersecurity and I am currently CompTIA Security+ and Cybersecurity Analyst (CySA)+ certified."

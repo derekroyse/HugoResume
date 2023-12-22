@@ -31,7 +31,7 @@ publishDir = "docs"
     resume = "Derek Royse - Resume.pdf"
 
 [params.experience]
-    enable = true
+    enable = false
     title = "Experience"
 
 [params.education]
@@ -44,7 +44,7 @@ publishDir = "docs"
 
 [params.case_studies]
     enable = true
-    title = "Portfolio"
+    title = "Experience"
     subtitle = "Recent Work"  
 
 [params.footer]

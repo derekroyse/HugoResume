@@ -4,7 +4,7 @@ title: "Virginia Volunteer Health System | Derek Royse"
 description: "Maintenence and new features for statewide volunteer healthcare system."
 nav_heading: "Virginia Volunteer Health System"
 thumbnail: "vvhsbig.png"
-site_url: "https://vvhs.vamrc.org/"
+site_url: "/HugoResume/vvhs"
 case_short_title: "VVHS"
 case_title: "Virginia Volunteer Health System"
 case_subtitle: "Web Application (Coldfusion)"
@@ -17,10 +17,10 @@ case_summary4: "Many updates to the core application functionality were made in 
 team: ["Derek Royse"]
 roles: ["Coldfusion", "MS SQL", "Bootstrap"]
 methods: ["HTML", "CSS", "Javascript"]
-button_links:
-    - link: "https://vvhs.vamrc.org/"
-      img: "eyeball.svg"
-      text: "Visit Site"
+# button_links:
+#     - link: "https://vvhs.vamrc.org/"
+#       img: "eyeball.svg"
+#       text: "Visit Site"
 date: 2017-10-15T03:29:08-07:00
-draft: true
+draft: false
 ---

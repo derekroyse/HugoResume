@@ -4,7 +4,7 @@ title: "Virginia Healthcare Alerting & Status System | Derek Royse"
 description: "Maintenence and new features for statewide emergency healthcare alerting system."
 nav_heading: "Virginia Healthcare Alerting & Status System"
 thumbnail: "vhhabig.png"
-site_url: "https://www.vhha-mci.org/"
+site_url: "/HugoResume/vhass"
 case_short_title: "VHASS"
 case_title: "Virginia Healthcare Alerting & Status System"
 case_subtitle: "Web Application (Coldfusion)"
@@ -17,10 +17,10 @@ case_summary4: "Starting in Spring of 2020, numerous updates were implemented th
 team: ["Derek Royse"]
 roles: ["Coldfusion", "MS SQL", "Bootstrap"]
 methods: ["HTML", "CSS", "Javascript"]
-button_links:
-    - link: "https://www.vhha-mci.org/"
-      img: "eyeball.svg"
-      text: "Visit Site"
+# button_links:
+#     - link: "https://www.vhha-mci.org/"
+#       img: "eyeball.svg"
+#       text: "Visit Site"
 date: 2017-10-15T03:29:08-07:00
-draft: true
+draft: false
 ---

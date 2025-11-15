@@ -598,3 +598,30 @@ section {
   transition: 0.2s ease-in-out;
   border-bottom: 3px solid #574CDD;
 }
+
+li {
+    padding-bottom:10px;
+}
+
+.experience-header h3{
+    margin-left:0px;
+}
+
+.right-aligned-date{
+    width:50%;
+    text-align:right;
+    color:darkgray;
+}
+
+.process-item{
+    width:33%;
+}
+
+/* moved inline styles here */
+#scroll-element { padding-top: 120px; }
+.hero-left .avatar { max-width: 50%; border-radius: 50%; }
+.process-item.experience-header { width: 100%; max-width: none; }
+.item-header-left { width: 50%; }
+.process-item > div > h2 { margin-left: 10px; }
+.resume-icon { position: relative; top: 1.8px; padding-right: 6px; }
+.back-to-top { color: #574cdd; text-decoration: underline; }
